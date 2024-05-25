@@ -1,0 +1,67 @@
+body {
+
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: Arial, sans-serif;
+
+
+
+}
+
+
+
+
+
+
+#game-screen {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  text-align: center;
+  background-image: url('https://i.pinimg.com/originals/46/ab/19/46ab19bc3ccd28277f14e7c5c17d0652.gif');
+  background-size: cover;
+  color: white;
+}
+
+#story {
+  margin-top: 100px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: black;
+  display: inline-block;
+  border-radius: 10px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+  font-size: 2em;
+}
+
+#options {
+  margin-top: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+
+
+
+
+
+
+//https://i.pinimg.com/originals/46/ab/19/46ab19bc3ccd28277f14e7c5c17d0652.gif
+
+//https://i.gifer.com/2m8z.gif
+//https://67.media.tumblr.com/08ac97386f9b26e6efa4af47de983dcd/tumblr_n6ijxnAypB1s0lpkco1_500.gif
+//https://media0.giphy.com/media/4Tkdz39XtGaLACQAVA/giphy.gif?cid=6c09b9528k1bak1srbyk901912h0f42kh8l8y5r6kgsgihhi&ep=v1_gifs_search&rid=giphy.gif&ct=g
