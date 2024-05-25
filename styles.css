@@ -29,6 +29,9 @@ body {
   font-family: 'Amatic SC', cursive;
   font-weight: 700;
   font-size: 2em;
+  -webkit-background-clip: text; /* Aplica el fondo transparente solo a las letras */
+  background-clip: text; /* Aplica el fondo transparente solo a las letras */
+  text-shadow: 0 0 10px rgba(255, 255, 255, 80); /* Agrega un contorno más grueso al texto */
 }
 
 #options {
